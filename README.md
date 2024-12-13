@@ -70,4 +70,5 @@ y_test_acc_score
 
 *Which model performed better? How does that compare to your prediction? Write down your results and thoughts in the following markdown cell.*
 
-*As I assumed, the RandomForestClassifier performed better with an accuracy score of 0.9226759339704604* 
+*Both models had an accuracy score of 0.9226759339704604. The RandomForestClassifier performed better than the Logisic Regression model. As I assumed, the RandomForestClassifier performed better. The RandomForestClassifier testing data score was 0.9582971329278888 and Logistic Regression model was lower with a testing data score of 0.9226759339704604.* 
+
